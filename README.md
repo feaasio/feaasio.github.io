@@ -7,4 +7,4 @@ Front-end as a service loading with magnificient ideas!
 
 [@stephanbit/FEaaS.io]( https://github.com/stephanbit )
 
-[@sumeyyeabitomsky/FEaaS.io]( https://github.com/sumeyyeabitomsky )
+[@sumeyyebitomsky/FEaaS.io]( https://github.com/sumeyyebitomsky )
