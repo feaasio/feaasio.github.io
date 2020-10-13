@@ -1,13 +1,12 @@
 # Site settings
-title: Front-end as a Service
+title: FEaas - Front-end as a Service
 email: stephan.bitomsky@gmail.com
 url: www.feaas.io
 description: "Front-end as a service is being loaded with magnificient ideas in here!"
 keywords: "front-end as a service, front-end"
 skills: "Service Layer - Layout - Architecture Design"
 meta_author: Bitomsky Sümeyye
-site:
-  title: FEaas - Front-end as a Service
+
 
 # Google webmaster tools
 google_verify:
